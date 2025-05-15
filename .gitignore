@@ -72,3 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/StarterContent/Architecture/Floor_400x400.uasset
+Content/StarterContent/Audio/Collapse01.uasset
+Content/StarterContent/Architecture/Floor_400x400.uasset
+Content/StarterContent/Audio/Collapse01.uasset
+Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset
+Content/StarterContent/Props/Materials/M_StatueGlass.uasset
+Content/StarterContent/Props/SM_Chair.uasset
+Content/StarterContent/Props/SM_Couch.uasset
+Content/StarterContent/Props/SM_Door.uasset
